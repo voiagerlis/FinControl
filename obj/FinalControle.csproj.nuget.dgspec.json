@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\FinalControle\\FinalControle.csproj": {}
+    "D:\\FinControl\\FinalControle.csproj": {}
   },
   "projects": {
-    "D:\\FinalControle\\FinalControle.csproj": {
+    "D:\\FinControl\\FinalControle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\FinalControle\\FinalControle.csproj",
+        "projectUniqueName": "D:\\FinControl\\FinalControle.csproj",
         "projectName": "FinalControle",
-        "projectPath": "D:\\FinalControle\\FinalControle.csproj",
+        "projectPath": "D:\\FinControl\\FinalControle.csproj",
         "packagesPath": "D:\\Users\\Владимир\\.nuget\\packages\\",
-        "outputPath": "D:\\FinalControle\\obj\\",
+        "outputPath": "D:\\FinControl\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\Владимир\\AppData\\Roaming\\NuGet\\NuGet.Config"
